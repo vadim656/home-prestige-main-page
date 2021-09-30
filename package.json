@@ -42,5 +42,9 @@
 		"terser-webpack-plugin": "^5.1.4",
 		"webpack": "^5.51.1",
 		"webpack-stream": "^7.0.0"
+	},
+	"dependencies": {
+		"gsap": "^3.8.0",
+		"imagesloaded": "^4.1.4"
 	}
 }
